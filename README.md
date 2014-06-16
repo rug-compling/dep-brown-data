@@ -5,6 +5,8 @@ Simon Šuster and Gertjan van Noord (2014) [From neighborhood to parenthood: the
 
   [From neighborhood to parenthood: the advantages of dependency representation over bigrams in Brown clustering.]: http://www.let.rug.nl/suster/publications/DepBrown.pdf
 
+The following clusters were induced with [dep-brown-cluster](http://github.com/rug-compling/dep-brown-cluster).
+
 ### Standard and dependency Brown clusters for Dutch
 
 - 1000 clusters, frequency cutoff 3: [DepBrown](dep/paths_dlm_1000_min3), [Brown](standard/paths_root_1000_min3)
