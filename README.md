@@ -63,7 +63,7 @@ Simon Šuster and Gertjan van Noord (2014) [From neighborhood to parenthood: the
 
 ### Input data
 
-Clusters were induced on the data sample from the SoNaR corpus: [sentence ids](ids/SONAR_random4000000.ids.full).
+Clusters were induced on the data sample from the SoNaR corpus: [sentence ids](ids/SONAR_random4000000.ids.full.zip).
 
 ### Data preparation
 
