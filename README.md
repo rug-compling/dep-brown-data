@@ -7,6 +7,9 @@ Simon Šuster and Gertjan van Noord (2014) [From neighborhood to parenthood: the
 
 The following clusters were induced with [dep-brown-cluster](http://github.com/rug-compling/dep-brown-cluster).
 
+
+
+
 ### Standard and dependency Brown clusters for Dutch
 
 - 1000 clusters, frequency cutoff 3: [DepBrown](dep/paths_dlm_1000_min3), [Brown](standard/paths_root_1000_min3)
@@ -22,6 +25,16 @@ The following clusters were induced with [dep-brown-cluster](http://github.com/r
 - 800 clusters, frequency cutoff 10: [DepBrown](dep/paths_dlm_800_min10), [Brown](standard/paths_800_min10)
 
 [DepBrownHTML]: http://www.let.rug.nl/suster/clusters/dependency/1000/view_dep_1000_30.html
+
+### Standard and dependency Brown clusters for English (not in the paper)
+
+- 1000 clusters, frequency cutoff 1: [DepBrown](en/dep/paths_1000_min1), [Brown](en/standard/paths_1000_min1)
+- 1000 clusters, frequency cutoff 3: [DepBrown](en/dep/paths_1000_min3), [Brown](en/standard/paths_1000_min3)
+- 1000 clusters, frequency cutoff 50: [DepBrown](en/dep/paths_1000_min50), [Brown](en/standard/paths_1000_min50), [EnDepBrownHTML][]
+- 3200 clusters, frequency cutoff 3: [DepBrown](en/dep/paths_3200_min3), [Brown](en/standard/paths_3200_min3)
+- 3200 clusters, frequency cutoff 50: [DepBrown](en/dep/paths_3200_min50), [Brown](en/standard/paths_3200_min50)
+
+[EnDepBrownHTML]: http://www.let.rug.nl/suster/clusters/english/standard/1000/view_base_1000_50.html
 
 ### Standard and dependency Brown clusters for Dutch: varying amount of data
 
